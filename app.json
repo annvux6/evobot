@@ -1,7 +1,7 @@
 {
-  "name": "EvoBot",
-  "description": "🤖 Discord Music Bot built with discord.js",
+  "name": "AnnVux Network Music Bot",
+  "description": "🤖 Discord Music Bot built with discord.js. Based on EvoBot.",
   "repository": "https://github.com/eritislami/evobot",
-  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "logo": "https://cdn.annvuxnetwork.com/musicbot.png",
   "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
 }
